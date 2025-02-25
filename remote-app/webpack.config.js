@@ -11,6 +11,10 @@ module.exports = {
   devServer: {
     port: 3001,
     static: path.join(__dirname, "dist"),
+    hot: true, // Habilita HMR (Hot Module Replacement)
+    headers: {
+      "Access-Control-Allow-Origin": "*", // Corrige problemas de CORS
+    },
   },
   plugins: [
     new ModuleFederationPlugin({

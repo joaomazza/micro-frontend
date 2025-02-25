@@ -17,6 +17,7 @@ module.exports = {
       name: "hostApp",
       remotes: {
         remoteApp: "remoteApp@http://localhost:3001/remoteEntry.js",
+        remoteAngular: "remoteAngular@http://localhost:4201/remoteEntry.js",
       },
       shared: ["react", "react-dom"],
     }),
