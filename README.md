@@ -50,7 +50,7 @@ Este projeto demonstra a implementação de **Micro Frontends** utilizando **Web
 
 ### 1️⃣ Clonar o Repositório
 ```sh
-git clone https://github.com/seu-usuario/micro-frontend-webpack.git
+git clone https://github.com/joaomazza/micro-frontend
 cd micro-frontend-webpack
 ```
 
@@ -136,10 +136,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 Este projeto está licenciado sob a **MIT License**.
 
----
 
 💡 **Desenvolvido para demonstrar o conceito de Micro Frontends!** 🚀
-```
 
 ---
 
