@@ -1,10 +1,4 @@
-Aqui está um **README.md** detalhado para a implementação do **Micro Frontend** utilizando **Webpack Module Federation**. Ele explica o conceito, a estrutura do projeto e os passos para instalação e execução. 🚀
 
----
-
-### 📜 **README.md**
-
-```markdown
 # Micro Frontend com Webpack Module Federation
 
 Este projeto demonstra a implementação de **Micro Frontends** utilizando **Webpack Module Federation**. Ele é composto por duas aplicações:
@@ -51,7 +45,6 @@ Este projeto demonstra a implementação de **Micro Frontends** utilizando **Web
  │   ├── 📜 .gitignore
 ```
 
----
 
 ## 🚀 Como Instalar e Executar
 
